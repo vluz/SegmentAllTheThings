@@ -6,6 +6,8 @@
 
 https://github.com/facebookresearch/segment-anything/
 
+Done from documentation and existing examples
+
 <hr>
 
 Sample image `complex.jpg` by Nout Gons from Pexels:      
