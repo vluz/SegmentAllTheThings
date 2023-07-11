@@ -1,0 +1,8 @@
+git+https://github.com/facebookresearch/segment-anything.git
+matplotlib
+numpy
+opencv_python
+opencv_contrib_python
+opencv_python_headless
+torch
+torchvision
