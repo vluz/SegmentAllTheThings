@@ -40,4 +40,11 @@ To run do:<br>
 
 <hr>
 
+Output:       
+<img src="output.jpg" width=100% height=100%>
+
+<hr>
+
 Do not use for production, untested.
+
+<br>
